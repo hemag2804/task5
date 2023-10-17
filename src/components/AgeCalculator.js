@@ -1,3 +1,4 @@
+// src/AgeCalculator.js
 import React, { useState } from 'react';
 
 const AgeCalculator = () => {
@@ -45,3 +46,4 @@ const AgeCalculator = () => {
 };
 
 export default AgeCalculator;
+
